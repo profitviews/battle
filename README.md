@@ -54,7 +54,7 @@ pip install -r requirements.txt
 
 You may get some errors installing the first time round, if you don't have all the non-Python dependencies installed. 
 
-For example TA-Lib is written in C and the Python module is simply a Cython (C-extension) to this main library. The TA-Lib dependencies can be found [here](https://github.com/TA-Lib/ta-lib-python#dependencies).
+For example TA-Lib is written in C and the Python module is simply a Cython (C-extension) to this main library. The TA-Lib dependencies can be found [here](https://github.com/TA-Lib/ta-lib-python#dependencies).  On Linux follow the [TA-Lib Installation Guide](/TA-Lib-Installation-Guide.md) to install them.
 
 Once all non-Python dependencies are installed re-run the pip install command above, to ensure all libraries are available.
 
