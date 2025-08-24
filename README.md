@@ -84,4 +84,4 @@ A new browser tab should open up with the project contents, where you can run th
 
 ## 6. Follow ups and Help
 
-If you have any issues running anything above, please do not hesistate to reach out either by messaging the dedicated **BitMEX ProfitView Creators** telegram group. We are very happy to help.
+If you have any issues running anything above, please do not hesistate to reach out by messaging the dedicated **BitMEX ProfitView Creators** telegram group. We are very happy to help.
